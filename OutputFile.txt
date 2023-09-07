@@ -1,0 +1,103 @@
+--------------------------------------------------------------
+10 Students with 20 reviews with ratings of 4 group exercises.
+--------------------------------------------------------------
+
+Yoga Class
+-----------
+
+Student 1
+
+No Trainers Available.
+1 Very dissatisfied
+
+Great Environment 
+5 Very Satisfied
+
+---------------------------------------------
+Student 2
+
+Well maintained Class Rooms.
+4 Satisfied
+
+Awesome. 
+5 Very Satisfied
+
+---------------------------------------------
+Student 3
+
+Great Facility.
+3 Ok
+
+Impressive.
+4 Satisfied
+
+Zumba Classes
+--------------
+Student 4
+
+Awesome environment.
+5 Very Satisfied
+
+No good fitness trainers Available.
+2 Dissatisfied
+
+-----------------------------------------------------------
+Student 5
+
+
+Fitness trainers are rude.
+2 Dissatisfied
+
+Good Experience
+3 Ok
+
+-----------------------------------------------------------
+
+BoxFit Class
+-------------
+Student 6
+
+Good fitness Trainers.
+5 Very Satisfied
+
+The Box Fit Class is Awesome. 
+4 Satisfied
+
+-----------------------------------------------------------
+Student 7
+
+No Comments.
+4 Satisfied
+
+Very Good
+3 Ok
+
+-----------------------------------------------------------
+Student 8
+
+Teachers are friendly.
+3 Ok
+
+very impressive
+4 Satisfied
+
+-----------------------------------------------------------
+
+Aquacise Class
+---------------
+Student 9
+
+Everything is good.
+5 Very Satisfied
+
+Classes are good but very costly.
+4 Satisfied
+
+Great environment
+4 Satisfied
+
+-----------------------------------------------------------
+Student 10
+
+Great experience
+5 Very Satisfied
